@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agb/static/css/main.f855e6bc.css",
+    "main.js": "/agb/static/js/main.e3b1436d.js",
+    "static/js/787.39f80cc3.chunk.js": "/agb/static/js/787.39f80cc3.chunk.js",
+    "static/media/logo.svg": "/agb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/agb/index.html",
+    "main.f855e6bc.css.map": "/agb/static/css/main.f855e6bc.css.map",
+    "main.e3b1436d.js.map": "/agb/static/js/main.e3b1436d.js.map",
+    "787.39f80cc3.chunk.js.map": "/agb/static/js/787.39f80cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e3b1436d.js"
+  ]
+}
